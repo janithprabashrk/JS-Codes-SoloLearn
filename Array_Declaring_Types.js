@@ -5,4 +5,4 @@ Mapogos[2] = "Mr. T";
 Mapogos[3] = "Pretty Boy";
 Mapogos[4] = "Scar";
 Mapogos[5] = "Dreadlock";
-document.write("<hr>", "<h1>Mapogos - The Mightiest Warrios of Sabi Sand </h1>",Mapogos);
+document.write("<hr>", "<h1>Mapogos - The Mightiest Warrios of Sabi Sand </h1>", Mapogos);
